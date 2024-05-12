@@ -16,7 +16,7 @@ pip install -r requirements.txt
 1.Player
 2.Enemies
 3.Asteroids
-
+4. Sometimes,spawn rocket
 
 my profile **Github**:  
 https://github.com/nikitaokt
